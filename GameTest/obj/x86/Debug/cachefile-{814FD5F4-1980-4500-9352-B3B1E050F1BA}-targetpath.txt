@@ -1,2 +1,0 @@
-Content\Assets\headLocksmith.xnb
-Content\Assets\pop.xnb

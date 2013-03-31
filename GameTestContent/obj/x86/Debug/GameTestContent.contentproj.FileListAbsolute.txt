@@ -1,2 +1,0 @@
-C:\Users\Michael Crosby\Documents\Visual Studio 2010\Projects\GameTest\GameTest\GameTestContent\obj\x86\Debug\GameTestContent.contentprojResolveAssemblyReference.cache
-C:\Users\Michael Crosby\Documents\GitHub\s-p-a-c-e\GameTestContent\obj\x86\Debug\GameTestContent.contentprojResolveAssemblyReference.cache
