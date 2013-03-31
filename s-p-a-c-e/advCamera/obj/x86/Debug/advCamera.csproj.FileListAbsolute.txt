@@ -1,0 +1,7 @@
+C:\Users\Michael Crosby\Documents\Visual Studio 2010\Projects\advCamera\advCamera\advCamera\bin\x86\Debug\Content\ship.xnb
+C:\Users\Michael Crosby\Documents\Visual Studio 2010\Projects\advCamera\advCamera\advCamera\bin\x86\Debug\advCamera.exe
+C:\Users\Michael Crosby\Documents\Visual Studio 2010\Projects\advCamera\advCamera\advCamera\bin\x86\Debug\advCamera.pdb
+C:\Users\Michael Crosby\Documents\Visual Studio 2010\Projects\advCamera\advCamera\advCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael Crosby\Documents\Visual Studio 2010\Projects\advCamera\advCamera\advCamera\obj\x86\Debug\advCamera.exe
+C:\Users\Michael Crosby\Documents\Visual Studio 2010\Projects\advCamera\advCamera\advCamera\obj\x86\Debug\advCamera.pdb
+C:\Users\Michael Crosby\Documents\Visual Studio 2010\Projects\advCamera\advCamera\advCamera\bin\x86\Debug\Content\bg.xnb
